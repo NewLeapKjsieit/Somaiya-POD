@@ -12,7 +12,7 @@ Somaiya *Pico-Satellite Orbital Deployer* (SomaiyaPod) is a Pocketqube Standard 
 
 ### Specifications:
 
-    /image/
+    image
 
     | External dimensions 	| 200mm x 145mm x 195mm 	|
     |:--:	|:--:	|
@@ -31,19 +31,19 @@ Somaiya *Pico-Satellite Orbital Deployer* (SomaiyaPod) is a Pocketqube Standard 
 
     The outer Structure of SomaiyaPod is made up of Aluminium Sheets. The sheets are laser cut to acquire maximum accuracy and precise fitting.
 
-    /image/
+    image
 
 2.Inner Structure-
 
     The internal Structure of Somaiya POD comprises aluminium LBands to ensure maximum support given to the outer Structure of the Deployer to withstand harsh conditions of space and  to provide stability during launch. 
 
-    /image/
+    image
 
 ### Mechanical interfacing with PS4-OP
 
     SomaiyaPod Deployer will be bolted on the 4th stage of PSLV 4 orbital Platform by 4x M12 Titanium bolts. The following Image captures the mechanical footprint of the same:-
 
-    /image/
+    image
 
 ### Electrical Specifications:
 
@@ -53,7 +53,7 @@ Somaiya *Pico-Satellite Orbital Deployer* (SomaiyaPod) is a Pocketqube Standard 
 
 -Door to End Stop Switch: Once the Door of the deployer has been opened, the end stop switch will be able to indicate whether the satellite has been launched through the deployer or not.
 
-/image/
+image
 
 ### Mechnism of Deployment:
     When the PS4-OP will reach the required altitude, it will give a deployment signal to Pinpuller to retract  its pin, resulting in the opening of the Somaiya Pod . Then the Beliefsat will be launched with the help of Constant Spring Force.  
