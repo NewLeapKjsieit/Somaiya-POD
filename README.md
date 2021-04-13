@@ -13,7 +13,7 @@ Somaiya *Pico-Satellite Orbital Deployer* (SomaiyaPod) is a Pocketqube Standard 
 ### Specifications:
 
 | External dimensions 	| 200mm x 145mm x 195mm 	|
-|	|	|
+|---	| ---	|
 | Estimated mass 	| 1000g 	|
 | Material used 	| Aluminium 6061 	|
 | Manufacturing methods used 	| -Laser Cutting for Outer Covering -Simple Milling of L-angles to make internal rails  	|
