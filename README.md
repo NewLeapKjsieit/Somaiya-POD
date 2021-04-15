@@ -31,7 +31,8 @@ Somaiya *Pico-Satellite Orbital Deployer* (SomaiyaPod) is a Pocketqube Standard 
 
 The outer Structure of SomaiyaPod is made up of Aluminium Sheets. The sheets are laser cut to acquire maximum accuracy and precise fitting.
 
-image
+<image src="images/1617963857032.jpg" width=400 height=400>
+</image>
 
 2. Inner Structure-
 
@@ -43,7 +44,9 @@ image
 
 SomaiyaPod Deployer will be bolted on the 4th stage of PSLV 4 orbital Platform by 4x M12 Titanium bolts. The following Image captures the mechanical footprint of the same:-
 
-image
+<image src="images/IMG-20210409-WA0024.jpg" width=400 height=400>
+</image>
+
 
 ### Electrical Specifications:
 
