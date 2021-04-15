@@ -11,8 +11,7 @@ Somaiya *Pico-Satellite Orbital Deployer* (SomaiyaPod) is a Pocketqube Standard 
 - It will also communicate with the PS4-OP whether the satellite is deployed or not.
 
 ### Specifications:
-<image src="images/1617963857032.jpg" width=1000 height=1000>
-![](images/1617963857032.jpg)
+<image src="images/1617963857032.jpg" width=500 height=500>
 </image>
 
 | External dimensions 	| 200mm x 145mm x 195mm 	|
