@@ -44,9 +44,6 @@ image
 
 SomaiyaPod Deployer will be bolted on the 4th stage of PSLV 4 orbital Platform by 4x M12 Titanium bolts. The following Image captures the mechanical footprint of the same:-
 
-<image src="images/IMG-20210409-WA0024.jpg" width=400 height=400>
-</image>
-
 
 ### Electrical Specifications:
 
